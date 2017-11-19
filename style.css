@@ -1,0 +1,41 @@
+#list{
+    padding-left: 100px;
+}
+
+
+#delete1, #delete2, #delete3, #likeA, #delete4, #likeB, #likeC, #likeD{
+    border: solid 3px green;
+    margin: 2px;
+}
+
+#likeNum1{
+    padding-left: 10px;
+}
+
+#likeNum2{
+    padding-left: 10px;
+}
+
+#likeNum3{
+    padding-left: 64px;
+}
+
+#likeNum4{
+    padding-left:65px;
+}
+
+#likeA{
+    margin-left: 11px;
+}
+
+#likeB{
+    margin-left: 14px;
+}
+
+#likeC{
+    margin-left: 27px;
+}
+
+#likeD{
+    margin-left: 28px;
+}
